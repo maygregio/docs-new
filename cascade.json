@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "id": "work",
+      "name": "AI",
+      "color": "#5B4BE0"
+    },
+    {
+      "id": "home",
+      "name": "Home",
+      "color": "#E0823A"
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "color": "#E0394A"
+    },
+    {
+      "id": "beacon",
+      "name": "Beacon",
+      "color": "#2F80D9"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "2360b4d3-8db7-418c-a5a5-f094512c2e63",
+      "title": "Add Missing Documentation to AI",
+      "description": "Add missing evidence to Technical Design Document",
+      "projectId": "architecture",
+      "priority": 1,
+      "done": false,
+      "status": "doing",
+      "dueDate": "2026-08-17T14:00:00",
+      "completedAt": null,
+      "archivedAt": null,
+      "recurrence": null,
+      "subtasksDone": 0,
+      "subtasksTotal": 0,
+      "comments": [
+        {
+          "id": "9f385598-b3a1-4c95-bf58-977536126e40",
+          "author": "You",
+          "initial": "M",
+          "color": "#5B4BE0",
+          "createdAt": "2026-08-14T20:50:50",
+          "text": "test link: v"
+        },
+        {
+          "id": "d49d7e86-bb53-417a-8dc5-690ea24b1c9a",
+          "author": "You",
+          "initial": "M",
+          "color": "#5B4BE0",
+          "createdAt": "2026-08-14T20:50:50",
+          "text": "http://localhost:5173"
+        }
+      ],
+      "createdAt": "2026-08-14T20:48:50"
+    },
+    {
+      "id": "b947c68a-0ae6-401d-a2fa-e45c0d061d9c",
+      "title": "Research Analyst-deployed Apps",
+      "description": "",
+      "projectId": "architecture",
+      "priority": 3,
+      "done": false,
+      "status": "todo",
+      "dueDate": null,
+      "completedAt": null,
+      "archivedAt": null,
+      "recurrence": null,
+      "subtasksDone": 0,
+      "subtasksTotal": 0,
+      "comments": [],
+      "createdAt": "2026-08-14T20:49:50"
+    },
+    {
+      "id": "aece9fba-d65e-4fe9-bad6-2e68f2544387",
+      "title": "Brain Dump for Architect Split",
+      "description": "Add brain dump for achitect split into a file and share with Joe",
+      "projectId": "architecture",
+      "priority": 2,
+      "done": false,
+      "status": "todo",
+      "dueDate": null,
+      "completedAt": null,
+      "archivedAt": null,
+      "recurrence": null,
+      "subtasksDone": 0,
+      "subtasksTotal": 0,
+      "comments": [],
+      "createdAt": "2026-08-14T20:49:50"
+    },
+    {
+      "id": "14e0c067-82fe-4e6e-b1fb-1babc8d2d5b3",
+      "title": "Progress Grok RAI Form",
+      "description": "",
+      "projectId": "work",
+      "priority": 1,
+      "done": false,
+      "status": "todo",
+      "dueDate": null,
+      "completedAt": null,
+      "archivedAt": null,
+      "recurrence": null,
+      "subtasksDone": 0,
+      "subtasksTotal": 0,
+      "comments": [],
+      "createdAt": "2026-08-14T21:00:50"
+    },
+    {
+      "id": "95bb261d-b92c-4a55-b597-f01290cc6237",
+      "title": "TM1 Cold Eyes Review Interviews",
+      "description": "",
+      "projectId": "architecture",
+      "priority": 2,
+      "done": false,
+      "status": "doing",
+      "dueDate": null,
+      "completedAt": null,
+      "archivedAt": null,
+      "recurrence": null,
+      "subtasksDone": 0,
+      "subtasksTotal": 0,
+      "comments": [],
+      "createdAt": "2026-08-14T21:04:50"
+    }
+  ]
+}
